@@ -1,2 +1,4 @@
-# java_api_rest
-# java_api_rest
+# Testing Rest API with TestNG 
+# a simple projeect to test REST Operations on Remote and local Rest Server
+
+
