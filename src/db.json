@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "wtf4444",
+      "author": "typicode"
+    },
+    {
+      "id": "3",
+      "title": "WTF3",
+      "author": "Peter2"
+    },
+    {
+      "id": 2,
+      "title": "wtf",
+      "author": "Peter"
+    },
+    {
+      "id": "4",
+      "title": "WTF3",
+      "author": "Peter2"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
